@@ -1,3 +1,20 @@
+/*This work is licensed under a
+Creative Commons Attribution-NonCommmercial-ShareAlike 4.0 International
+This license lets others remix, tweak, and build upon this work non-commercially,
+as long as they credit the AUTHOR and license their new creations under the identical terms.
+*/
+
+/*
+Mercury Robotics Challenge Lationamerica 2017
+David Josue Barrientos Rojas (2017)
+d[dot]b[dot]gt[at]ieee[dot]org
+Universidad de San Carlos de Guatemala
+EE School
+Electronics Laboratory
+*/
+
+
+
 /*************************************Librerias**************************************/
 #include <stdint.h>
 #include <stdbool.h>
